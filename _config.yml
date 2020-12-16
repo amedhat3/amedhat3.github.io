@@ -1,3 +1,5 @@
 name: SolGen
 description: Programming is the Solution
 markdown: redcarpet
+
+theme: jekyll-theme-minimal
